@@ -1,0 +1,27 @@
+C:\Users\Adriel\Desktop\LH PETS\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Adriel\Desktop\LH PETS\bin\Debug\net8.0\appsettings.json
+C:\Users\Adriel\Desktop\LH PETS\bin\Debug\net8.0\LH PETS.staticwebassets.runtime.json
+C:\Users\Adriel\Desktop\LH PETS\bin\Debug\net8.0\LH PETS.exe
+C:\Users\Adriel\Desktop\LH PETS\bin\Debug\net8.0\LH PETS.deps.json
+C:\Users\Adriel\Desktop\LH PETS\bin\Debug\net8.0\LH PETS.runtimeconfig.json
+C:\Users\Adriel\Desktop\LH PETS\bin\Debug\net8.0\LH PETS.dll
+C:\Users\Adriel\Desktop\LH PETS\bin\Debug\net8.0\LH PETS.pdb
+C:\Users\Adriel\Desktop\LH PETS\obj\Debug\net8.0\LH PETS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriel\Desktop\LH PETS\obj\Debug\net8.0\LH PETS.AssemblyInfoInputs.cache
+C:\Users\Adriel\Desktop\LH PETS\obj\Debug\net8.0\LH PETS.AssemblyInfo.cs
+C:\Users\Adriel\Desktop\LH PETS\obj\Debug\net8.0\LH PETS.csproj.CoreCompileInputs.cache
+C:\Users\Adriel\Desktop\LH PETS\obj\Debug\net8.0\LH PETS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Adriel\Desktop\LH PETS\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Adriel\Desktop\LH PETS\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Adriel\Desktop\LH PETS\obj\Debug\net8.0\staticwebassets\msbuild.LH PETS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Adriel\Desktop\LH PETS\obj\Debug\net8.0\staticwebassets\msbuild.build.LH PETS.props
+C:\Users\Adriel\Desktop\LH PETS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LH PETS.props
+C:\Users\Adriel\Desktop\LH PETS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LH PETS.props
+C:\Users\Adriel\Desktop\LH PETS\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Adriel\Desktop\LH PETS\obj\Debug\net8.0\scopedcss\bundle\LH PETS.styles.css
+C:\Users\Adriel\Desktop\LH PETS\obj\Debug\net8.0\LH PETS.dll
+C:\Users\Adriel\Desktop\LH PETS\obj\Debug\net8.0\refint\LH PETS.dll
+C:\Users\Adriel\Desktop\LH PETS\obj\Debug\net8.0\LH PETS.pdb
+C:\Users\Adriel\Desktop\LH PETS\obj\Debug\net8.0\LH PETS.genruntimeconfig.cache
+C:\Users\Adriel\Desktop\LH PETS\obj\Debug\net8.0\ref\LH PETS.dll
+C:\Users\Adriel\Desktop\LH PETS\obj\Debug\net8.0\LH PETS.csproj.AssemblyReference.cache
